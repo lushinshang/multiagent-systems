@@ -4,7 +4,7 @@
 - [x] 2. 使用 `codex exec` 繪製 16:9 橫式視覺化全覽圖 `assets/summary-overview.png`（2400×1350）
 - [x] 3. 使用 `codex exec` 繪製 9:16 直式視覺化全覽圖 `assets/summary-overview-mobile.png`（1350×2400）
 - [x] 4. 更新 `index.html` 採用 `<picture>` 標籤與響應式 CSS，支援手機直式與桌面橫式切換及 Lightbox 放大
-- [ ] 5. 驗證雙端排版與 Playwright 截圖，並同步推送更新至 GitHub Pages
+- [x] 5. 驗證雙端排版與 Playwright 截圖，並同步推送更新至 GitHub Pages
 
 ## 驗收條件
 
