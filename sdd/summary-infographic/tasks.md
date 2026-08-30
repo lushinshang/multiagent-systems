@@ -3,8 +3,8 @@
 - [x] 1. 設計全覽圖架構與 4 大板塊內容（協同陷阱、同質化合謀、認識論脆弱、地盤爭奪戰）
 - [x] 2. 使用 `codex exec` 繪製高解析度繁體中文全覽圖 `assets/summary-overview.png`
 - [x] 3. 更新 `index.html`：頂端加入全覽圖展示，並設定 `og:image` 等社群分享 Meta 標籤
-- [ ] 4. 驗證 HTML 結構與更新 Playwright 截圖，並同步推送更新至 GitHub Pages
-- [ ] 5. 自我檢查：核對圖檔文字清晰度、LINE 預覽標籤完整度與網頁互動
+- [x] 4. 驗證 HTML 結構與更新 Playwright 截圖，並同步推送更新至 GitHub Pages
+- [x] 5. 自我檢查：核對圖檔文字清晰度、LINE 預覽標籤完整度與網頁互動
 
 ## 驗收條件
 
